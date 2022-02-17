@@ -1,0 +1,3 @@
+git init  for regular repo
+
+git init --bare for serverside repo
